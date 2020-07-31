@@ -46,19 +46,19 @@
     </default>
   </default>
   <asset>
-    <mesh file="../dkitty/meshes/bulkhead.stl" name="bulkhead"/>
-    <mesh file="../dkitty/meshes/D_kitty_plates_V2.stl" name="D_kitty_plates_V2"/>
-    <mesh file="../dkitty/meshes/bulkhead_low_poly.stl" name="bulkhead_low_poly"/>
-    <mesh file="../dkitty/meshes/bulkhead_low_poly1.stl" name="bulkhead_low_poly1"/>
-    <mesh file="../dkitty/meshes/bulkhead_low_poly2.stl" name="bulkhead_low_poly2"/>
-    <mesh file="../dkitty/meshes/bulkhead_low_poly3.stl" name="bulkhead_low_poly3"/>
-    <mesh file="../dkitty/meshes/bulkhead_low_poly4.stl" name="bulkhead_low_poly4"/>
-    <mesh file="../dkitty/meshes/bulkhead_low_poly5.stl" name="bulkhead_low_poly5"/>
-    <mesh file="../dkitty/meshes/fr12_h103_3.stl" name="fr12_h103_3"/>
-    <mesh file="../dkitty/meshes/screws.stl" name="screws"/>
-    <mesh file="../dkitty/meshes/x430_dkitty_2.stl" name="x430_dkitty_2"/>
-    <mesh file="../dkitty/meshes/xh_clamping_small.stl" name="xh_clamping_small"/>
-    <mesh file="../dkitty/meshes/xh_finger_tip.stl" name="xh_finger_tip"/>
+    <mesh file="../meshes/bulkhead.stl" name="bulkhead"/>
+    <mesh file="../meshes/D_kitty_plates_V2.stl" name="D_kitty_plates_V2"/>
+    <mesh file="../meshes/bulkhead_low_poly.stl" name="bulkhead_low_poly"/>
+    <mesh file="../meshes/bulkhead_low_poly1.stl" name="bulkhead_low_poly1"/>
+    <mesh file="../meshes/bulkhead_low_poly2.stl" name="bulkhead_low_poly2"/>
+    <mesh file="../meshes/bulkhead_low_poly3.stl" name="bulkhead_low_poly3"/>
+    <mesh file="../meshes/bulkhead_low_poly4.stl" name="bulkhead_low_poly4"/>
+    <mesh file="../meshes/bulkhead_low_poly5.stl" name="bulkhead_low_poly5"/>
+    <mesh file="../meshes/fr12_h103_3.stl" name="fr12_h103_3"/>
+    <mesh file="../meshes/screws.stl" name="screws"/>
+    <mesh file="../meshes/x430_dkitty_2.stl" name="x430_dkitty_2"/>
+    <mesh file="../meshes/xh_clamping_small.stl" name="xh_clamping_small"/>
+    <mesh file="../meshes/xh_finger_tip.stl" name="xh_finger_tip"/>
   </asset>
   <actuator>
     <position name="A:FRJ10" joint="A:FRJ10" class="dkitty" ctrlrange="-3.419 0.279"/>

@@ -19,14 +19,14 @@
   <compiler angle="radian" inertiafromgeom="auto" inertiagrouprange="3 5"/>
   <option timestep="0.0025" iterations="50" tolerance="1e-10" solver="Newton" jacobian="dense" cone="elliptic"/>
   <asset>
-    <mesh name="xh28" file="../dclaw/meshes/xh_base_high_poly.stl" scale=".001 .001 .001"/>
-    <mesh name="acrylic_circle" file="../dclaw/meshes/acrylic_circle.stl" scale=".1 .1 .1"/>
-    <mesh name="plastic_finger" file="../dclaw/meshes/xh_finger_tip.stl" scale=".001 .001 .001"/>
-    <mesh name="metal_clamping" file="../dclaw/meshes/xh_clamping_high_poly.stl" scale=".001 .001 .001"/>
-    <mesh name="metal_clamping_small" file="../dclaw/meshes/xh_clamping_small_high_poly.stl" scale=".001 .001 .001"/>
-    <mesh name="plastic_top" file="../dclaw/meshes/xh_white_top_high_poly.stl" scale=".001 .001 .001"/>
-    <mesh name="xh28_hull" file="../dclaw/meshes/xh_base_hull.stl" scale=".001 .001 .001"/>
-    <mesh name="xh28_hull_top" file="../dclaw/meshes/xh_base_hull_top.stl" scale=".001 .001 .001"/>
+    <mesh name="xh28" file="../meshes/xh_base_high_poly.stl" scale=".001 .001 .001"/>
+    <mesh name="acrylic_circle" file="../meshes/acrylic_circle.stl" scale=".1 .1 .1"/>
+    <mesh name="plastic_finger" file="../meshes/xh_finger_tip.stl" scale=".001 .001 .001"/>
+    <mesh name="metal_clamping" file="../meshes/xh_clamping_high_poly.stl" scale=".001 .001 .001"/>
+    <mesh name="metal_clamping_small" file="../meshes/xh_clamping_small_high_poly.stl" scale=".001 .001 .001"/>
+    <mesh name="plastic_top" file="../meshes/xh_white_top_high_poly.stl" scale=".001 .001 .001"/>
+    <mesh name="xh28_hull" file="../meshes/xh_base_hull.stl" scale=".001 .001 .001"/>
+    <mesh name="xh28_hull_top" file="../meshes/xh_base_hull_top.stl" scale=".001 .001 .001"/>
   </asset>
   <default>
     <default class="dclaw3xh">
